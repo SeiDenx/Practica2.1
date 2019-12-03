@@ -1,0 +1,119 @@
+html {
+    background-color: bisque;
+}
+
+body {
+    margin: 0;
+}
+
+#cabecera {
+    color: chocolate;
+    text-align: center;
+}
+
+p.carta {
+    text-align: left;
+    padding-left: 20px;
+}
+
+p.cafe {
+    text-align: center;
+}
+
+p.contacto {
+    text-align: right;
+    padding-right: 20px;
+}
+
+.menu {
+    text-align: center;
+}
+
+.menu ul {
+    list-style: none;
+    display: inline-block;
+}
+
+.menu ul li  {
+    float: left;
+    text-align: center;
+}
+
+.menu ul li  {
+    font-weight: bold;
+    text-decoration: none;
+    font-size: 20px;
+    padding: 20px;
+}
+
+p.red, p.red_min {
+    padding: 20px;
+}
+
+p.red {
+    color: red;
+    text-transform: uppercase;
+}
+
+p.red_min {
+    color: red;
+    font-size: 16px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.img_cafe {
+    display:block;
+    margin:auto;
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+
+footer {
+    clear: both;
+    text-align: center;
+    background-color: black;
+    color: cornsilk;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    margin-top: 0px;
+}
+
+footer a {
+    color: cornsilk;
+}
+
+h2 {
+    color: brown;
+}
+
+#tradicional ol li p {
+    color: brown;
+}
+
+#especial ul li p {
+    color: brown;
+}
+
+.destacado {
+    color: black;
+}
+
+#merienda ul li p {
+    color: brown;
+}
+
+#merienda ol li p {
+    color: brown;
+}
+
+colgroup.fondo {
+    background-color: rgb(230, 139, 79);
+}
+
+table {
+    width: 60%;
+}
+
+.act th {
+    background-color: rgb(230, 139, 79);
+}
